@@ -2,15 +2,13 @@
 title: Required
 ---
 
-## Required
-
-This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/HTML/Attributes/Required/index.md).
-
-[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
+Required is an important attribute within &lt;input&gt; tag. When a specific input is really important for the submission of form, this attribute is used. For example: for login page email and password is really important for the submission. So in those input tags required is used.
+<pre>
+<code>
+&lt;form action="../action_page.php"&gt;
+  Username: &lt;input type="text" name="usrname" <strong>required</strong>&gt;
+  &lt;input type="submit"&gt;
+&lt;/form&gt;
+</code>
+</pre>
 
