@@ -4,9 +4,17 @@ title: Paragraph
 
 ## Paragraph
 
-This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/HTML/Elements/Paragraph/index.md).
+The paragraph is block-level element in HTML. The HTML <p> tag represents paragraph. 
+  It is ended by closing tag </p>. Paragraph resides between opening and closing p tag. 
+  Paragraph is block of text usually, however can be any structural grouping of related 
+  contents.
+  For instance:
+  <code>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Maecenas viverra facilisis rutrum&lt;/P&gt;</code>
+  outputs:
+ <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Maecenas viverra facilisis rutrum</P>
 
-[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
